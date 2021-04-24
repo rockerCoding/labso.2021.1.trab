@@ -1,0 +1,14 @@
+backup-guilherme
+final.txt
+guilherme02
+guilherme1.txt
+guilherme2.txt
+guilherme3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+README.md
+trab1-Guilherme.txt
+ultimocomando.txt
