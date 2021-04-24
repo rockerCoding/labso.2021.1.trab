@@ -66,7 +66,7 @@ uma nova pasta chamada backup-seunome
 Resposta (Cole aqui o(s) comandos utilizados): 
 
 mkdir backup-guilherme
-cp -r ./labso.2021.1.trab/pasta* ./backup-guilherme/
+cp -r ./pasta* ./backup-guilherme/
 
 **************************************************************************************************
 
